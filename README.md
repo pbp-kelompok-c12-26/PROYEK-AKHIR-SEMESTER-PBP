@@ -12,7 +12,7 @@ Aplikasi mobile dibuat dengan Flutter dan dirancang untuk menggunakan web servic
 
 - **Repositori aplikasi Flutter**: [PROYEK-AKHIR-SEMESTER-PBP](https://github.com/pbp-kelompok-c12-26/PROYEK-AKHIR-SEMESTER-PBP)
 - **Website PWS / layanan backend**: [stephanie-revalina-swapdrobe.pws.cs.ui.ac.id](https://stephanie-revalina-swapdrobe.pws.cs.ui.ac.id/)
-- **Desain Figma SwapDrobe**: [Figma Low-Fi Design SwapDrobe](https://www.figma.com/design/EC91kdm0tnJODFQhxwIQul/Prototype-Web-PBP?node-id=0-1&p=f&t=eQtZICktQfXXkBwX-0) *(tautan dari proyek website; perbarui jika tersedia tautan khusus desain mobile)*
+- **Desain Figma SwapDrobe**: [Figma Mobile Design SwapDrobe](https://www.figma.com/design/IYIk4KFx26bL2SRAvCVp8v/Prototype-Mobile-Apps-PBP---C12?node-id=2001-733&t=9jV1ZNbDW1iXOORr-1) *(tautan dari proyek website; perbarui jika tersedia tautan khusus desain mobile)*
 - **APK**: akan ditambahkan setelah Checkpoint 1.
 
 ## Anggota Kelompok
